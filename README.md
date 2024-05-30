@@ -4,6 +4,4 @@ A project that determines if a patient is diabetic or not. Uses Machine Learning
 DataSets Utilized- <br/>
 https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset<br/>
 https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset<br/>
-https://www.kaggle.com/datasets/imtkaggleteam/diabetes<br/>
-https://drive.google.com/drive/folders/1YylTjWxmkUVdurMSDjl84dstCKZL6wH8<br/>
 https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset<br/>
